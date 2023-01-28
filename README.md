@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @molerojj
-- 👀 I’m interested in FullStack Web Developer.
-- 🌱 I’m currently learning JavaScript - Front-End & Back-End.
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me: @jonathanmolero on IG.
+![Banner-Github](https://user-images.githubusercontent.com/110490630/215278306-98126263-44c3-40f5-8619-bb10b6638906.jpg)
+
+Hi!
