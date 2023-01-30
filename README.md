@@ -1,7 +1,7 @@
 ![Banner-Github2](https://user-images.githubusercontent.com/110490630/215285159-2e2fcb29-5e13-4e8c-a466-d4f201d4bbbb.jpg)
 
 
-# 🖖 I'm a Software Engineer & FullStack Dev from 🇻🇪!
+<h1 align="center">🖖 I'm a Software Engineer & FullStack Dev from 🇻🇪<h1>
 
 # SKILLS 🚀
 
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/sqlite-%233F9CD6.svg?&style=for-the-badge&logo=sqlite&logoColor=#5ED3F3"/>
   <img src="https://img.shields.io/badge/postgresql-%23222222.svg?&style=for-the-badge&logo=postgresql&logoColor=#31648C"/>
 </div>
-
+  
 ### Deploy:
 <div display="flex">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -48,4 +48,3 @@
 <div display="flex">
   <img src="https://img.shields.io/badge/npm-%23C53635.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 </div>
-  
